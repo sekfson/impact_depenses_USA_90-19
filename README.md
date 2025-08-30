@@ -1,8 +1,3 @@
-Parfait 🙌 tu m’as partagé ton notebook `fouille.ipynb`.
-Je vais te rédiger un **README GitHub** professionnel qui présente clairement ton projet et ton notebook.
-
----
-
 # 📘 Analyse : Impact des Dépenses Publiques sur la Performance Scolaire aux États-Unis
 
 ## 📝 Description
